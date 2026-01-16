@@ -2,8 +2,7 @@
 
 My name is Tiya, I am a Junior computer science student at GSU!
 - 🌱 I’m currently learning Java and building my portfolio! 
-- 👯 I’m looking to collaborate on projects!
-   - 📫 Send ideas to: [tiya.kabeto2@gmail.com](mailto:tiya.kabeto2@gmail.com)
+-  I’m looking to collaborate on projects!
 
 <!--
 **TiyaT1250/TiyaT1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
