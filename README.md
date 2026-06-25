@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tiya, I am a Junior computer science student at GSU!
+My name is Tiya, I am a rising senior computer science student at GSU!
 - 🌱 I’m currently learning Java and building my portfolio!
 - ⚡Check out my portfolio here: https://app.notion.com/p/Tiya-Tulu-Computer-Scientist-2b08032fced5808f8704fe00e97d2664?source=copy_link
 - 👯 I’m looking to collaborate on projects so feel free to reach out!
