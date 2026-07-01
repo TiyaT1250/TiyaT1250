@@ -2,9 +2,17 @@
 
 My name is Tiya, I am a rising senior computer science student at GSU!
 - 🌱 I’m currently learning Java and building my portfolio!
-- ⚡Check out my portfolio here: https://app.notion.com/p/Tiya-Tulu-Computer-Scientist-2b08032fced5808f8704fe00e97d2664?source=copy_link
+- ⚡Check out my [Portfolio](https://app.notion.com/p/Tiya-Tulu-Computer-Scientist-2b08032fced5808f8704fe00e97d2664?source=copy_link)
 - 👯 I’m looking to collaborate on projects so feel free to reach out!
-
+---
+__Technical Skills__
+- Languages: Python,JavaScript,SQL
+- Frameworks and Tools:Dbeaver,Pandas,Jupyter Notebook,VSCode
+- Databases: MySQL
+---
+__Let's Connect!__
+- [LinkedIn](https://www.linkedin.com/in/tiyat)
+- [Email](tiya.kabeto2@gmail.com)
 <!--
 **TiyaT1250/TiyaT1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
