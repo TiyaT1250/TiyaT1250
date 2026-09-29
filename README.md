@@ -2,8 +2,10 @@
 
 My name is Tiya, I am a rising senior computer science student at GSU!
 - 🌱 I’m currently learning Java and building my portfolio!
-- ⚡Check out my [Portfolio](https://app.notion.com/p/Tiya-Tulu-Computer-Scientist-2b08032fced5808f8704fe00e97d2664?source=copy_link)
-- 👯 I’m looking to collaborate on projects so feel free to reach out!
+- ⚡Check out my Recent Projects:
+- [The Green Space ](https://drive.google.com/file/d/14rC8aE8-uCt-ZtS2c9Pc7dt6HQkLGwyl/view?usp=sharing)
+- [Bridging the Gap ](https://drive.google.com/file/d/1cm7J46hxI36l9St5__EC0tR6icBXAQng/view?usp=sharing)
+- 👯 I’m looking to collaborate on more projects so feel free to reach out!
 ---
 __Technical Skills__
 - Languages: Python,JavaScript,SQL
